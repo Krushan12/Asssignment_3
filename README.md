@@ -20,7 +20,7 @@ Visualize the embeddings using t-SNE if using more than 2 dimensions or using a 
     g.For visualizations, you may have to select words with relations like synonyms, antonyms, names and pronouns, verb and adverbs, words with no relations, and so on.
     h.Think how you would handle the case where words provided by the user in streamlit are not in the vocabulary.
     i.Use Google Colab or Kaggle for training (use maximum 500-1000 epochs). Start the assignment early, as training takes time. 
-##DataSets:
+## DataSets:
    a.Paul Graham essays
    b.Wikipedia (English)
    c.Shakespeare
